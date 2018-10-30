@@ -13,3 +13,11 @@ gemspec
 
 # To use a debugger
 # gem 'byebug', group: [:development, :test]
+
+group :development, :test do
+  gem 'pry-rails'
+  gem 'pg'
+  gem 'rspec-rails'
+  gem 'guard-livereload', '~> 2.5', '>= 2.5.2'
+  gem 'guard-rspec', '~> 4.7', '>= 4.7.3'
+end

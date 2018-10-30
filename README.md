@@ -1,6 +1,11 @@
 # DbAdmin
 Short description and motivation.
 
+## References
+
+- [PgHero](https://github.com/ankane/pghero)
+- [RailsDB](https://github.com/igorkasyanchuk/rails_db)
+
 ## Usage
 How to use my plugin.
 
